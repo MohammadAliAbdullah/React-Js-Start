@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 class SetState extends Component {
 
     constructor() {
-        super()
+        super();
         this.state = {
             name: "Mohammad Ali Abdullah",
             company: "Habro"
